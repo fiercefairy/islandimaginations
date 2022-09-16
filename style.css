@@ -5,14 +5,17 @@ html{
 header{
     color: black;
     background-color: white;
+    font-style:normal;
 } 
 main{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-footer{
-    font-size:small;
+    footer{
+    font-size:medium;
     clear: both;
-}
+    font-style: italic;
+    }
+
 h2{
     color:black; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
