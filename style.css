@@ -1,0 +1,44 @@
+html{
+    background-color: white;
+    color: black;
+} 
+header{
+    color: black;
+    background-color: white;
+} 
+main{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    font-size:small;
+    clear: both;
+}
+h2{
+    color:black; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color:black;
+    margin-bottom: 10px;
+}
+header h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30pt;
+    margin:10px;
+    margin-bottom: 20px;
+}
+img{
+    padding: 50px;
+    width: 300px;
+}
+.card-containers{
+    border: 5px solid black;
+    width: 400px;
+    margin:10px;
+    float: left;
+}
+.title{
+    padding-top: 10px;
+    text-align: center;
+}
